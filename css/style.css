@@ -1,0 +1,11 @@
+html, body {
+  height: 99%;
+}
+
+#gridContainer {
+  height: 100%;
+}
+
+#grid {
+  padding: 10px;
+}
